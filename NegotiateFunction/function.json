@@ -12,6 +12,13 @@
       ]
     },
     {
+      "type": "signalRConnectionInfo",
+      "name": "connectionInfo",
+      "hubName": "chatbase",
+      "connectionStringSetting": "signalRConnectionString",
+      "direction": "in"
+    },
+    {
       "type": "http",
       "direction": "out",
       "name": "res"

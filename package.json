@@ -1,0 +1,20 @@
+{
+  "name": "chatbase-functions",
+  "version": "1.0.0",
+  "description": "",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mimacom-klier/chatbase-functions.git"
+  },
+  "author": "Daniel Klier <daniel.lier@mimacom.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mimacom-klier/chatbase-functions/issues"
+  },
+  "homepage": "https://github.com/mimacom-klier/chatbase-functions#readme"
+}
